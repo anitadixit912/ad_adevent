@@ -1,0 +1,13 @@
+{
+    "type":"amqp",
+    "username":"solace-cloud-client",
+    "password": "lfsmvkha4gh4mm42d61hmpv8mq",
+    "url": "mr-connection-339i86a6djp.messaging.solace.cloud",
+    "port": 5671,
+    "management":{
+        "uri":"https://mr-connection-339i86a6djp.messaging.solace.cloud:443/SEMP/v2/config",
+        "msgVpnName": "adfacility-manager-messagi",
+        "username": "mission-control-manage",
+        "password": "rjspbcl7qiql284vpl5fa2qerj"
+    }
+}
